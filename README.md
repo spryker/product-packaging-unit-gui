@@ -4,6 +4,8 @@
 
 This module provides Zed UI interface for Product Packaging Unit.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
